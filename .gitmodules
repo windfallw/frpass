@@ -1,0 +1,3 @@
+[submodule "NotificationTrayIconSharp"]
+	path = NotificationTrayIconSharp
+	url = https://github.com/darkfrostystorm/NotificationTrayIconSharp
